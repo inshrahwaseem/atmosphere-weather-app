@@ -122,7 +122,6 @@ supabase functions deploy city-search --no-verify-jwt
 npm run dev
 ```
 
-Visit [http://localhost:5173](http://localhost:5173) in your browser — your weather dashboard is now live! 🚀
 
 ---
 
