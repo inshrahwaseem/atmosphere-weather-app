@@ -1,0 +1,29 @@
+{
+  "name": "Atmospheric \u2014 Weather Dashboard",
+  "short_name": "Atmospheric",
+  "description": "Premium real-time weather app with hourly forecasts, air quality, and interactive graphs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": [
+    "weather",
+    "utilities"
+  ],
+  "shortcuts": [
+    {
+      "name": "Search City",
+      "url": "/?action=search",
+      "description": "Search for a city's weather"
+    }
+  ],
+  "_note": "Add icon-192.png and icon-512.png to /public to enable full PWA install"
+}
