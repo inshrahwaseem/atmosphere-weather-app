@@ -102,7 +102,7 @@ Browser (React + Vite)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/atmosphere-weather-app.git
+git clone https://github.com/inshrahwaseem/atmosphere-weather-app.git
 cd atmosphere-weather-app
 
 # 2. Install dependencies
@@ -122,7 +122,7 @@ supabase functions deploy city-search --no-verify-jwt
 npm run dev
 ```
 
-Visit [http://localhost:5173](http://localhost:5173) — you're live.
+Visit [http://localhost:5173](http://localhost:5173) in your browser — your weather dashboard is now live! 🚀
 
 ---
 
